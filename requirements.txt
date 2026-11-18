@@ -1,0 +1,4 @@
+pandas
+pg8000
+streamlit
+streamlit-autorefresh

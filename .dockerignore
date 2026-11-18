@@ -1,0 +1,8 @@
+env/
+venv/
+.git/
+__pycache__/
+*.pyc
+.streamlit/
+credentials/
+.env

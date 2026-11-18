@@ -1,0 +1,14 @@
+# Entornos virtuales y caché de Python
+env/
+venv/
+__pycache__/
+*.py[cod]
+
+# Credenciales y variables de entorno
+.env
+credentials/
+*.json
+
+# Configuraciones locales
+.streamlit/
+.vscode/
